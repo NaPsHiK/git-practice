@@ -1,0 +1,5 @@
+Attack
+Defend
+Patrol
+Search
+Retreat
