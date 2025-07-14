@@ -3,3 +3,9 @@ Defend
 Patrol
 Search
 Retreat
+
+Enemy:
+- Patrol
+- Chase
+- Attack
+- Flee
